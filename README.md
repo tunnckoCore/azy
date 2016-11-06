@@ -1,6 +1,6 @@
 # [azy][author-www-url] [![npmjs.com][npmjs-img]][npmjs-url] [![The MIT License][license-img]][license-url] [![npm downloads][downloads-img]][downloads-url] 
 
-> Modern, powerful and small assertion, built on [assert-kindof][] and [is-kindof][]. Based on builtins assert, [tape][]'s and [ava][]'s APIs
+> Modern, powerful and extensible assertion library, built on [assert-kindof][] and [is-kindof][]. Based on builtins assert, [tape][]'s and [ava][]'s APIs
 
 [![code climate][codeclimate-img]][codeclimate-url] [![standard code style][standard-img]][standard-url] [![travis build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![dependency status][david-img]][david-url]
 

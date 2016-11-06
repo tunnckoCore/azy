@@ -1,7 +1,7 @@
 {
   "name": "azy",
   "version": "0.1.0",
-  "description": "Modern, powerful and small assertion, built on [assert-kindof][] and [is-kindof][]. Based on builtins assert, [tape][]'s and [ava][]'s APIs",
+  "description": "Modern, powerful and extensible assertion library, built on [assert-kindof][] and [is-kindof][]. Based on builtins assert, [tape][]'s and [ava][]'s APIs",
   "repository": "tunnckoCore/azy",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "precommit.silent": true,
